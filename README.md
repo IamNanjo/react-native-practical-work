@@ -1,4 +1,4 @@
-# Practice work
+# Practical work
 
 ## Assignment
 
