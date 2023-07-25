@@ -65,7 +65,3 @@ After a while I found that having the inputs in the ListHeaderComponent would fi
 
 The next problem I ran into after that was that the scrolling was getting cut off and I could not figure out a good reason for that and found online that many other people have a similar problem.
 Most people recommended using a bottom padding on the element or a `flex: 1` style on the container but none of that worked for me. Finally I realized that you can also add a ListFooterComponent to the FlatList which allows me to add a `View` element at the bottom of the list which acts as the padding.
-
-## Additional notes
-
-1. Return you source code plus the document in one zip file into the Moodle (see the Task below).
