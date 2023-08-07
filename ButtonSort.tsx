@@ -26,6 +26,7 @@ const buttonStyles = StyleSheet.create({
 		borderRadius: 6
 	},
 	text: {
-		alignSelf: "center"
+		alignSelf: "center",
+		color: colors.white
 	}
 });
