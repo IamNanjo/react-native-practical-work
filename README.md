@@ -1,4 +1,4 @@
-# Practical work
+# Practical work - Arttu Kaipainen
 
 ## Assignment
 
