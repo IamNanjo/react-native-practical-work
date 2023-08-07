@@ -19,6 +19,14 @@ Make a React Native application by which you can add person data having at least
 
 I used TypeScript to speed up the development and I also separated the application to multiple different components so I will explain their purpose in this chapter.
 
+### Person.ts
+
+The TypeScript interface for saved people
+
+### db.ts
+
+Exports functions that manage (create, read, delete) saved data in the database (SQLite)
+
 ### App
 
 The App component contains the app state, logic as well as the main application structure.
